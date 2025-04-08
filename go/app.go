@@ -15,3 +15,6 @@ func main() {
 	fmt.Println("Running demo app. Press Ctrl+C to exit...")
 	log.Fatal(http.ListenAndServe(":8888", nil))
 }
+func newFeature() {
+    fmt.Println("Это новая функциональность!")
+}

@@ -1,0 +1,26 @@
+name: CI/CD Pipeline
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: self-hosted  
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Test
+        run: echo "Testing ..."
+
+      - name: Stop and remove previous container
+        run: docker rm -f $(docker ps -a -q)
+
+      - name: Build the Docker image
+        run: docker build -t go-app .
+
+      - name: Deploy the Docker image
+        run: docker run -d -p 8888:8888 go-app
