@@ -1,0 +1,338 @@
+[2025-04-08 17:25:37Z INFO HostContext] No proxy settings were found based on environmental variables (http_proxy/https_proxy/HTTP_PROXY/HTTPS_PROXY)
+[2025-04-08 17:25:37Z INFO HostContext] Well known directory 'Bin': 'C:\Users\lizam\Dev-course\go\actions-runner\bin'
+[2025-04-08 17:25:37Z INFO HostContext] Well known directory 'Root': 'C:\Users\lizam\Dev-course\go\actions-runner'
+[2025-04-08 17:25:37Z INFO HostContext] Well known config file 'Credentials': 'C:\Users\lizam\Dev-course\go\actions-runner\.credentials'
+[2025-04-08 17:25:37Z INFO HostContext] Well known directory 'Bin': 'C:\Users\lizam\Dev-course\go\actions-runner\bin'
+[2025-04-08 17:25:37Z INFO HostContext] Well known directory 'Root': 'C:\Users\lizam\Dev-course\go\actions-runner'
+[2025-04-08 17:25:37Z INFO HostContext] Well known config file 'Runner': 'C:\Users\lizam\Dev-course\go\actions-runner\.runner'
+[2025-04-08 17:25:37Z INFO Listener] Runner is built for Windows (X64) - win-x64.
+[2025-04-08 17:25:37Z INFO Listener] RuntimeInformation: Microsoft Windows 10.0.19045.
+[2025-04-08 17:25:37Z INFO Listener] Version: 2.323.0
+[2025-04-08 17:25:37Z INFO Listener] Commit: d8b82f44a9ec0258904d5869ae683c31d5aac299
+[2025-04-08 17:25:37Z INFO Listener] Culture: en-AT
+[2025-04-08 17:25:37Z INFO Listener] UI Culture: ru-RU
+[2025-04-08 17:25:37Z INFO HostContext] Well known directory 'Bin': 'C:\Users\lizam\Dev-course\go\actions-runner\bin'
+[2025-04-08 17:25:37Z INFO HostContext] Well known directory 'Root': 'C:\Users\lizam\Dev-course\go\actions-runner'
+[2025-04-08 17:25:37Z INFO Listener] Validating directory permissions for: 'C:\Users\lizam\Dev-course\go\actions-runner'
+[2025-04-08 17:25:37Z INFO CommandLineParser] Parse
+[2025-04-08 17:25:37Z INFO CommandLineParser] Parsing 2 args
+[2025-04-08 17:25:37Z INFO CommandLineParser] parsing argument
+[2025-04-08 17:25:37Z INFO CommandLineParser] HasArgs: False
+[2025-04-08 17:25:37Z INFO CommandLineParser] Adding Command: run
+[2025-04-08 17:25:37Z INFO CommandLineParser] parsing argument
+[2025-04-08 17:25:37Z INFO CommandLineParser] HasArgs: False
+[2025-04-08 17:25:37Z INFO CommandLineParser] Adding Command: remove
+[2025-04-08 17:25:37Z INFO Listener] Arguments parsed
+[2025-04-08 17:25:37Z INFO Runner] ExecuteCommand
+[2025-04-08 17:25:37Z INFO ConfigurationStore] currentAssemblyLocation: C:\Users\lizam\Dev-course\go\actions-runner\bin\Runner.Listener.dll
+[2025-04-08 17:25:37Z INFO HostContext] Well known directory 'Bin': 'C:\Users\lizam\Dev-course\go\actions-runner\bin'
+[2025-04-08 17:25:37Z INFO ConfigurationStore] binPath: C:\Users\lizam\Dev-course\go\actions-runner\bin
+[2025-04-08 17:25:37Z INFO HostContext] Well known directory 'Bin': 'C:\Users\lizam\Dev-course\go\actions-runner\bin'
+[2025-04-08 17:25:37Z INFO HostContext] Well known directory 'Root': 'C:\Users\lizam\Dev-course\go\actions-runner'
+[2025-04-08 17:25:37Z INFO ConfigurationStore] RootFolder: C:\Users\lizam\Dev-course\go\actions-runner
+[2025-04-08 17:25:37Z INFO HostContext] Well known directory 'Bin': 'C:\Users\lizam\Dev-course\go\actions-runner\bin'
+[2025-04-08 17:25:37Z INFO HostContext] Well known directory 'Root': 'C:\Users\lizam\Dev-course\go\actions-runner'
+[2025-04-08 17:25:37Z INFO HostContext] Well known config file 'Runner': 'C:\Users\lizam\Dev-course\go\actions-runner\.runner'
+[2025-04-08 17:25:37Z INFO ConfigurationStore] ConfigFilePath: C:\Users\lizam\Dev-course\go\actions-runner\.runner
+[2025-04-08 17:25:37Z INFO HostContext] Well known directory 'Bin': 'C:\Users\lizam\Dev-course\go\actions-runner\bin'
+[2025-04-08 17:25:37Z INFO HostContext] Well known directory 'Root': 'C:\Users\lizam\Dev-course\go\actions-runner'
+[2025-04-08 17:25:37Z INFO HostContext] Well known config file 'MigratedRunner': 'C:\Users\lizam\Dev-course\go\actions-runner\.runner_migrated'
+[2025-04-08 17:25:37Z INFO ConfigurationStore] MigratedConfigFilePath: C:\Users\lizam\Dev-course\go\actions-runner\.runner_migrated
+[2025-04-08 17:25:37Z INFO HostContext] Well known directory 'Bin': 'C:\Users\lizam\Dev-course\go\actions-runner\bin'
+[2025-04-08 17:25:37Z INFO HostContext] Well known directory 'Root': 'C:\Users\lizam\Dev-course\go\actions-runner'
+[2025-04-08 17:25:37Z INFO HostContext] Well known config file 'Credentials': 'C:\Users\lizam\Dev-course\go\actions-runner\.credentials'
+[2025-04-08 17:25:37Z INFO ConfigurationStore] CredFilePath: C:\Users\lizam\Dev-course\go\actions-runner\.credentials
+[2025-04-08 17:25:37Z INFO HostContext] Well known directory 'Bin': 'C:\Users\lizam\Dev-course\go\actions-runner\bin'
+[2025-04-08 17:25:37Z INFO HostContext] Well known directory 'Root': 'C:\Users\lizam\Dev-course\go\actions-runner'
+[2025-04-08 17:25:37Z INFO HostContext] Well known config file 'MigratedCredentials': 'C:\Users\lizam\Dev-course\go\actions-runner\.credentials_migrated'
+[2025-04-08 17:25:37Z INFO ConfigurationStore] MigratedCredFilePath: C:\Users\lizam\Dev-course\go\actions-runner\.credentials_migrated
+[2025-04-08 17:25:37Z INFO HostContext] Well known directory 'Bin': 'C:\Users\lizam\Dev-course\go\actions-runner\bin'
+[2025-04-08 17:25:37Z INFO HostContext] Well known directory 'Root': 'C:\Users\lizam\Dev-course\go\actions-runner'
+[2025-04-08 17:25:37Z INFO HostContext] Well known config file 'Service': 'C:\Users\lizam\Dev-course\go\actions-runner\.service'
+[2025-04-08 17:25:37Z INFO ConfigurationStore] ServiceConfigFilePath: C:\Users\lizam\Dev-course\go\actions-runner\.service
+[2025-04-08 17:25:37Z INFO CommandSettings] Flag 'help': 'False'
+[2025-04-08 17:25:37Z INFO CommandSettings] Flag 'version': 'False'
+[2025-04-08 17:25:37Z INFO CommandSettings] Flag 'commit': 'False'
+[2025-04-08 17:25:37Z INFO CommandSettings] Flag 'check': 'False'
+[2025-04-08 17:25:37Z INFO CommandSettings] Command 'configure': 'False'
+[2025-04-08 17:25:37Z INFO CommandSettings] Command 'remove': 'False'
+[2025-04-08 17:25:37Z INFO CommandSettings] Command 'warmup': 'False'
+[2025-04-08 17:25:37Z INFO ConfigurationManager] LoadSettings
+[2025-04-08 17:25:37Z INFO ConfigurationStore] IsConfigured()
+[2025-04-08 17:25:37Z INFO ConfigurationStore] IsConfigured: True
+[2025-04-08 17:25:37Z INFO ConfigurationManager] Is configured: True
+[2025-04-08 17:25:37Z INFO ConfigurationStore] Read setting file: 318 chars
+[2025-04-08 17:25:37Z INFO ConfigurationManager] Settings Loaded
+[2025-04-08 17:25:37Z INFO ConfigurationStore] IsServiceConfigured()
+[2025-04-08 17:25:37Z INFO ConfigurationStore] IsServiceConfigured: False
+[2025-04-08 17:25:37Z INFO CommandSettings] Command 'run': 'True'
+[2025-04-08 17:25:37Z INFO ConfigurationStore] IsConfigured()
+[2025-04-08 17:25:37Z INFO ConfigurationStore] IsConfigured: True
+[2025-04-08 17:25:37Z INFO ConfigurationManager] Is configured: True
+[2025-04-08 17:25:37Z INFO Runner] Could not parse the argument value '' for StartupType. Defaulting to Manual
+[2025-04-08 17:25:37Z INFO Runner] Set runner startup type - Manual
+[2025-04-08 17:25:37Z INFO CommandSettings] Flag 'once': 'False'
+[2025-04-08 17:25:37Z INFO CommandSettings] Flag 'once': 'False'
+[2025-04-08 17:25:37Z INFO Runner] RunAsync
+[2025-04-08 17:25:37Z INFO ConfigurationManager] LoadSettings
+[2025-04-08 17:25:37Z INFO ConfigurationStore] IsConfigured()
+[2025-04-08 17:25:37Z INFO ConfigurationStore] IsConfigured: True
+[2025-04-08 17:25:37Z INFO ConfigurationManager] Is configured: True
+[2025-04-08 17:25:37Z INFO ConfigurationManager] Settings Loaded
+[2025-04-08 17:25:37Z INFO MessageListener] {
+  "AgentId": 2,
+  "AgentName": "DESKTOP-AER7VGA",
+  "PoolId": 1,
+  "PoolName": "Default",
+  "ServerUrl": "https://pipelinesghubeus8.actions.githubusercontent.com/yGU45xvD9BUFuGz6qRUNr2JP2FZPG1Q7KMvtBTDL3dUVAzqBVG/",
+  "GitHubUrl": "https://github.com/masalskayaliza/cource_project",
+  "WorkFolder": "_work"
+}
+[2025-04-08 17:25:37Z INFO MessageListener] Loading Credentials
+[2025-04-08 17:25:37Z INFO ConfigurationStore] HasCredentials()
+[2025-04-08 17:25:37Z INFO ConfigurationStore] stored True
+[2025-04-08 17:25:37Z INFO CredentialManager] GetCredentialProvider
+[2025-04-08 17:25:37Z INFO CredentialManager] Creating type OAuth
+[2025-04-08 17:25:37Z INFO CredentialManager] Creating credential type: OAuth
+[2025-04-08 17:25:37Z INFO HostContext] Well known directory 'Bin': 'C:\Users\lizam\Dev-course\go\actions-runner\bin'
+[2025-04-08 17:25:37Z INFO HostContext] Well known directory 'Root': 'C:\Users\lizam\Dev-course\go\actions-runner'
+[2025-04-08 17:25:37Z INFO HostContext] Well known config file 'RSACredentials': 'C:\Users\lizam\Dev-course\go\actions-runner\.credentials_rsaparams'
+[2025-04-08 17:25:37Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\lizam\Dev-course\go\actions-runner\.credentials_rsaparams
+[2025-04-08 17:25:37Z INFO MessageListener] Attempt to create session.
+[2025-04-08 17:25:37Z INFO MessageListener] Connecting to the Runner Server...
+[2025-04-08 17:25:37Z INFO RunnerServer] EstablishVssConnection
+[2025-04-08 17:25:37Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2025-04-08 17:25:38Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-04-08 17:25:38Z INFO RunnerServer] EstablishVssConnection
+[2025-04-08 17:25:38Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2025-04-08 17:25:38Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-04-08 17:25:38Z INFO RunnerServer] EstablishVssConnection
+[2025-04-08 17:25:38Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2025-04-08 17:25:38Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-04-08 17:25:38Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-04-08 17:25:38Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-04-08 17:25:38Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-04-08 17:25:38Z INFO MessageListener] VssConnection created
+[2025-04-08 17:25:38Z INFO Terminal] WRITE LINE: 
+[2025-04-08 17:25:38Z INFO Terminal] WRITE LINE: 
+[2025-04-08 17:25:38Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\lizam\Dev-course\go\actions-runner\.credentials_rsaparams
+[2025-04-08 17:25:38Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\lizam\Dev-course\go\actions-runner\.credentials_rsaparams
+[2025-04-08 17:25:39Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-04-08 17:25:39Z ERR  GitHubActionsService] POST request to https://pipelinesghubeus8.actions.githubusercontent.com/yGU45xvD9BUFuGz6qRUNr2JP2FZPG1Q7KMvtBTDL3dUVAzqBVG/_apis/distributedtask/pools/1/sessions failed. HTTP Status: Conflict
+[2025-04-08 17:25:39Z ERR  MessageListener] Catch exception during create session.
+[2025-04-08 17:25:39Z ERR  MessageListener] GitHub.DistributedTask.WebApi.TaskAgentSessionConflictException: The actions runner DESKTOP-AER7VGA already has an active session.
+   at GitHub.Services.WebApi.VssHttpClientBase.HandleResponseAsync(HttpResponseMessage response, CancellationToken cancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync(HttpRequestMessage message, HttpCompletionOption completionOption, Object userState, CancellationToken cancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync[T](HttpRequestMessage message, Object userState, CancellationToken cancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync[T](HttpMethod method, IEnumerable`1 additionalHeaders, Guid locationId, Object routeValues, ApiResourceVersion version, HttpContent content, IEnumerable`1 queryParameters, Object userState, CancellationToken cancellationToken)
+   at GitHub.Runner.Listener.MessageListener.CreateSessionAsync(CancellationToken token)
+[2025-04-08 17:25:39Z INFO MessageListener] The session for this runner already exists.
+[2025-04-08 17:25:39Z ERR  Terminal] WRITE ERROR: A session for this runner already exists.
+[2025-04-08 17:25:39Z INFO MessageListener] The session conflict exception haven't reached retry limit.
+[2025-04-08 17:25:39Z ERR  Terminal] WRITE ERROR: 2025-04-08 17:25:39Z: Runner connect error: The actions runner DESKTOP-AER7VGA already has an active session.. Retrying until reconnected.
+[2025-04-08 17:25:39Z INFO MessageListener] Sleeping for 30 seconds before retrying.
+[2025-04-08 17:26:09Z INFO MessageListener] Attempt to create session.
+[2025-04-08 17:26:09Z INFO MessageListener] Connecting to the Runner Server...
+[2025-04-08 17:26:09Z INFO RunnerServer] EstablishVssConnection
+[2025-04-08 17:26:09Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2025-04-08 17:26:09Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-04-08 17:26:09Z INFO RunnerServer] EstablishVssConnection
+[2025-04-08 17:26:09Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2025-04-08 17:26:09Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-04-08 17:26:09Z INFO RunnerServer] EstablishVssConnection
+[2025-04-08 17:26:09Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2025-04-08 17:26:09Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-04-08 17:26:10Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-04-08 17:26:10Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-04-08 17:26:10Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-04-08 17:26:10Z INFO MessageListener] VssConnection created
+[2025-04-08 17:26:10Z INFO Terminal] WRITE LINE: 
+[2025-04-08 17:26:10Z INFO Terminal] WRITE LINE: 
+[2025-04-08 17:26:10Z ERR  GitHubActionsService] POST request to https://pipelinesghubeus8.actions.githubusercontent.com/yGU45xvD9BUFuGz6qRUNr2JP2FZPG1Q7KMvtBTDL3dUVAzqBVG/_apis/distributedtask/pools/1/sessions failed. HTTP Status: Conflict
+[2025-04-08 17:26:10Z ERR  MessageListener] Catch exception during create session.
+[2025-04-08 17:26:10Z ERR  MessageListener] GitHub.DistributedTask.WebApi.TaskAgentSessionConflictException: The actions runner DESKTOP-AER7VGA already has an active session.
+   at GitHub.Services.WebApi.VssHttpClientBase.HandleResponseAsync(HttpResponseMessage response, CancellationToken cancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync(HttpRequestMessage message, HttpCompletionOption completionOption, Object userState, CancellationToken cancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync[T](HttpRequestMessage message, Object userState, CancellationToken cancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync[T](HttpMethod method, IEnumerable`1 additionalHeaders, Guid locationId, Object routeValues, ApiResourceVersion version, HttpContent content, IEnumerable`1 queryParameters, Object userState, CancellationToken cancellationToken)
+   at GitHub.Runner.Listener.MessageListener.CreateSessionAsync(CancellationToken token)
+[2025-04-08 17:26:10Z INFO MessageListener] The session for this runner already exists.
+[2025-04-08 17:26:10Z ERR  Terminal] WRITE ERROR: A session for this runner already exists.
+[2025-04-08 17:26:10Z INFO MessageListener] The session conflict exception haven't reached retry limit.
+[2025-04-08 17:26:10Z INFO MessageListener] Sleeping for 30 seconds before retrying.
+[2025-04-08 17:26:40Z INFO MessageListener] Attempt to create session.
+[2025-04-08 17:26:40Z INFO MessageListener] Connecting to the Runner Server...
+[2025-04-08 17:26:40Z INFO RunnerServer] EstablishVssConnection
+[2025-04-08 17:26:40Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2025-04-08 17:26:40Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-04-08 17:26:40Z INFO RunnerServer] EstablishVssConnection
+[2025-04-08 17:26:40Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2025-04-08 17:26:40Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-04-08 17:26:40Z INFO RunnerServer] EstablishVssConnection
+[2025-04-08 17:26:40Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2025-04-08 17:26:40Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-04-08 17:26:40Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-04-08 17:26:40Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-04-08 17:26:40Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-04-08 17:26:40Z INFO MessageListener] VssConnection created
+[2025-04-08 17:26:40Z INFO Terminal] WRITE LINE: 
+[2025-04-08 17:26:40Z INFO Terminal] WRITE LINE: 
+[2025-04-08 17:26:41Z ERR  GitHubActionsService] POST request to https://pipelinesghubeus8.actions.githubusercontent.com/yGU45xvD9BUFuGz6qRUNr2JP2FZPG1Q7KMvtBTDL3dUVAzqBVG/_apis/distributedtask/pools/1/sessions failed. HTTP Status: Conflict
+[2025-04-08 17:26:41Z ERR  MessageListener] Catch exception during create session.
+[2025-04-08 17:26:41Z ERR  MessageListener] GitHub.DistributedTask.WebApi.TaskAgentSessionConflictException: The actions runner DESKTOP-AER7VGA already has an active session.
+   at GitHub.Services.WebApi.VssHttpClientBase.HandleResponseAsync(HttpResponseMessage response, CancellationToken cancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync(HttpRequestMessage message, HttpCompletionOption completionOption, Object userState, CancellationToken cancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync[T](HttpRequestMessage message, Object userState, CancellationToken cancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync[T](HttpMethod method, IEnumerable`1 additionalHeaders, Guid locationId, Object routeValues, ApiResourceVersion version, HttpContent content, IEnumerable`1 queryParameters, Object userState, CancellationToken cancellationToken)
+   at GitHub.Runner.Listener.MessageListener.CreateSessionAsync(CancellationToken token)
+[2025-04-08 17:26:41Z INFO MessageListener] The session for this runner already exists.
+[2025-04-08 17:26:41Z ERR  Terminal] WRITE ERROR: A session for this runner already exists.
+[2025-04-08 17:26:41Z INFO MessageListener] The session conflict exception haven't reached retry limit.
+[2025-04-08 17:26:41Z INFO MessageListener] Sleeping for 30 seconds before retrying.
+[2025-04-08 17:27:11Z INFO MessageListener] Attempt to create session.
+[2025-04-08 17:27:11Z INFO MessageListener] Connecting to the Runner Server...
+[2025-04-08 17:27:11Z INFO RunnerServer] EstablishVssConnection
+[2025-04-08 17:27:11Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2025-04-08 17:27:11Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-04-08 17:27:11Z INFO RunnerServer] EstablishVssConnection
+[2025-04-08 17:27:11Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2025-04-08 17:27:11Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-04-08 17:27:11Z INFO RunnerServer] EstablishVssConnection
+[2025-04-08 17:27:11Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2025-04-08 17:27:11Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-04-08 17:27:11Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-04-08 17:27:11Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-04-08 17:27:11Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-04-08 17:27:11Z INFO MessageListener] VssConnection created
+[2025-04-08 17:27:11Z INFO Terminal] WRITE LINE: 
+[2025-04-08 17:27:11Z INFO Terminal] WRITE LINE: 
+[2025-04-08 17:27:11Z ERR  GitHubActionsService] POST request to https://pipelinesghubeus8.actions.githubusercontent.com/yGU45xvD9BUFuGz6qRUNr2JP2FZPG1Q7KMvtBTDL3dUVAzqBVG/_apis/distributedtask/pools/1/sessions failed. HTTP Status: Conflict
+[2025-04-08 17:27:11Z ERR  MessageListener] Catch exception during create session.
+[2025-04-08 17:27:11Z ERR  MessageListener] GitHub.DistributedTask.WebApi.TaskAgentSessionConflictException: The actions runner DESKTOP-AER7VGA already has an active session.
+   at GitHub.Services.WebApi.VssHttpClientBase.HandleResponseAsync(HttpResponseMessage response, CancellationToken cancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync(HttpRequestMessage message, HttpCompletionOption completionOption, Object userState, CancellationToken cancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync[T](HttpRequestMessage message, Object userState, CancellationToken cancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync[T](HttpMethod method, IEnumerable`1 additionalHeaders, Guid locationId, Object routeValues, ApiResourceVersion version, HttpContent content, IEnumerable`1 queryParameters, Object userState, CancellationToken cancellationToken)
+   at GitHub.Runner.Listener.MessageListener.CreateSessionAsync(CancellationToken token)
+[2025-04-08 17:27:11Z INFO MessageListener] The session for this runner already exists.
+[2025-04-08 17:27:11Z ERR  Terminal] WRITE ERROR: A session for this runner already exists.
+[2025-04-08 17:27:11Z INFO MessageListener] The session conflict exception haven't reached retry limit.
+[2025-04-08 17:27:11Z INFO MessageListener] Sleeping for 30 seconds before retrying.
+[2025-04-08 17:27:41Z INFO MessageListener] Attempt to create session.
+[2025-04-08 17:27:41Z INFO MessageListener] Connecting to the Runner Server...
+[2025-04-08 17:27:41Z INFO RunnerServer] EstablishVssConnection
+[2025-04-08 17:27:41Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2025-04-08 17:27:41Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-04-08 17:27:41Z INFO RunnerServer] EstablishVssConnection
+[2025-04-08 17:27:41Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2025-04-08 17:27:41Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-04-08 17:27:41Z INFO RunnerServer] EstablishVssConnection
+[2025-04-08 17:27:41Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2025-04-08 17:27:41Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-04-08 17:27:42Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-04-08 17:27:42Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-04-08 17:27:42Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-04-08 17:27:42Z INFO MessageListener] VssConnection created
+[2025-04-08 17:27:42Z INFO Terminal] WRITE LINE: 
+[2025-04-08 17:27:42Z INFO Terminal] WRITE LINE: 
+[2025-04-08 17:27:42Z ERR  GitHubActionsService] POST request to https://pipelinesghubeus8.actions.githubusercontent.com/yGU45xvD9BUFuGz6qRUNr2JP2FZPG1Q7KMvtBTDL3dUVAzqBVG/_apis/distributedtask/pools/1/sessions failed. HTTP Status: Conflict
+[2025-04-08 17:27:42Z ERR  MessageListener] Catch exception during create session.
+[2025-04-08 17:27:42Z ERR  MessageListener] GitHub.DistributedTask.WebApi.TaskAgentSessionConflictException: The actions runner DESKTOP-AER7VGA already has an active session.
+   at GitHub.Services.WebApi.VssHttpClientBase.HandleResponseAsync(HttpResponseMessage response, CancellationToken cancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync(HttpRequestMessage message, HttpCompletionOption completionOption, Object userState, CancellationToken cancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync[T](HttpRequestMessage message, Object userState, CancellationToken cancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync[T](HttpMethod method, IEnumerable`1 additionalHeaders, Guid locationId, Object routeValues, ApiResourceVersion version, HttpContent content, IEnumerable`1 queryParameters, Object userState, CancellationToken cancellationToken)
+   at GitHub.Runner.Listener.MessageListener.CreateSessionAsync(CancellationToken token)
+[2025-04-08 17:27:42Z INFO MessageListener] The session for this runner already exists.
+[2025-04-08 17:27:42Z ERR  Terminal] WRITE ERROR: A session for this runner already exists.
+[2025-04-08 17:27:42Z INFO MessageListener] The session conflict exception haven't reached retry limit.
+[2025-04-08 17:27:42Z INFO MessageListener] Sleeping for 30 seconds before retrying.
+[2025-04-08 17:28:12Z INFO MessageListener] Attempt to create session.
+[2025-04-08 17:28:12Z INFO MessageListener] Connecting to the Runner Server...
+[2025-04-08 17:28:12Z INFO RunnerServer] EstablishVssConnection
+[2025-04-08 17:28:12Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2025-04-08 17:28:12Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-04-08 17:28:12Z INFO RunnerServer] EstablishVssConnection
+[2025-04-08 17:28:12Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2025-04-08 17:28:12Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-04-08 17:28:12Z INFO RunnerServer] EstablishVssConnection
+[2025-04-08 17:28:12Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2025-04-08 17:28:12Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-04-08 17:28:12Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-04-08 17:28:12Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-04-08 17:28:12Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-04-08 17:28:12Z INFO MessageListener] VssConnection created
+[2025-04-08 17:28:12Z INFO Terminal] WRITE LINE: 
+[2025-04-08 17:28:12Z INFO Terminal] WRITE LINE: 
+[2025-04-08 17:28:12Z ERR  GitHubActionsService] POST request to https://pipelinesghubeus8.actions.githubusercontent.com/yGU45xvD9BUFuGz6qRUNr2JP2FZPG1Q7KMvtBTDL3dUVAzqBVG/_apis/distributedtask/pools/1/sessions failed. HTTP Status: Conflict
+[2025-04-08 17:28:12Z ERR  MessageListener] Catch exception during create session.
+[2025-04-08 17:28:12Z ERR  MessageListener] GitHub.DistributedTask.WebApi.TaskAgentSessionConflictException: The actions runner DESKTOP-AER7VGA already has an active session.
+   at GitHub.Services.WebApi.VssHttpClientBase.HandleResponseAsync(HttpResponseMessage response, CancellationToken cancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync(HttpRequestMessage message, HttpCompletionOption completionOption, Object userState, CancellationToken cancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync[T](HttpRequestMessage message, Object userState, CancellationToken cancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync[T](HttpMethod method, IEnumerable`1 additionalHeaders, Guid locationId, Object routeValues, ApiResourceVersion version, HttpContent content, IEnumerable`1 queryParameters, Object userState, CancellationToken cancellationToken)
+   at GitHub.Runner.Listener.MessageListener.CreateSessionAsync(CancellationToken token)
+[2025-04-08 17:28:12Z INFO MessageListener] The session for this runner already exists.
+[2025-04-08 17:28:12Z ERR  Terminal] WRITE ERROR: A session for this runner already exists.
+[2025-04-08 17:28:12Z INFO MessageListener] The session conflict exception haven't reached retry limit.
+[2025-04-08 17:28:12Z INFO MessageListener] Sleeping for 30 seconds before retrying.
+[2025-04-08 17:28:42Z INFO MessageListener] Attempt to create session.
+[2025-04-08 17:28:42Z INFO MessageListener] Connecting to the Runner Server...
+[2025-04-08 17:28:42Z INFO RunnerServer] EstablishVssConnection
+[2025-04-08 17:28:42Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2025-04-08 17:28:42Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-04-08 17:28:42Z INFO RunnerServer] EstablishVssConnection
+[2025-04-08 17:28:42Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2025-04-08 17:28:42Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-04-08 17:28:42Z INFO RunnerServer] EstablishVssConnection
+[2025-04-08 17:28:42Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2025-04-08 17:28:42Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-04-08 17:28:43Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-04-08 17:28:43Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-04-08 17:28:43Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-04-08 17:28:43Z INFO MessageListener] VssConnection created
+[2025-04-08 17:28:43Z INFO Terminal] WRITE LINE: 
+[2025-04-08 17:28:43Z INFO Terminal] WRITE LINE: 
+[2025-04-08 17:28:43Z ERR  GitHubActionsService] POST request to https://pipelinesghubeus8.actions.githubusercontent.com/yGU45xvD9BUFuGz6qRUNr2JP2FZPG1Q7KMvtBTDL3dUVAzqBVG/_apis/distributedtask/pools/1/sessions failed. HTTP Status: Conflict
+[2025-04-08 17:28:43Z ERR  MessageListener] Catch exception during create session.
+[2025-04-08 17:28:43Z ERR  MessageListener] GitHub.DistributedTask.WebApi.TaskAgentSessionConflictException: The actions runner DESKTOP-AER7VGA already has an active session.
+   at GitHub.Services.WebApi.VssHttpClientBase.HandleResponseAsync(HttpResponseMessage response, CancellationToken cancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync(HttpRequestMessage message, HttpCompletionOption completionOption, Object userState, CancellationToken cancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync[T](HttpRequestMessage message, Object userState, CancellationToken cancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync[T](HttpMethod method, IEnumerable`1 additionalHeaders, Guid locationId, Object routeValues, ApiResourceVersion version, HttpContent content, IEnumerable`1 queryParameters, Object userState, CancellationToken cancellationToken)
+   at GitHub.Runner.Listener.MessageListener.CreateSessionAsync(CancellationToken token)
+[2025-04-08 17:28:43Z INFO MessageListener] The session for this runner already exists.
+[2025-04-08 17:28:43Z ERR  Terminal] WRITE ERROR: A session for this runner already exists.
+[2025-04-08 17:28:43Z INFO MessageListener] The session conflict exception haven't reached retry limit.
+[2025-04-08 17:28:43Z INFO MessageListener] Sleeping for 30 seconds before retrying.
+[2025-04-08 17:29:13Z INFO MessageListener] Attempt to create session.
+[2025-04-08 17:29:13Z INFO MessageListener] Connecting to the Runner Server...
+[2025-04-08 17:29:13Z INFO RunnerServer] EstablishVssConnection
+[2025-04-08 17:29:13Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2025-04-08 17:29:13Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-04-08 17:29:13Z INFO RunnerServer] EstablishVssConnection
+[2025-04-08 17:29:13Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2025-04-08 17:29:13Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-04-08 17:29:13Z INFO RunnerServer] EstablishVssConnection
+[2025-04-08 17:29:13Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2025-04-08 17:29:13Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-04-08 17:29:13Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-04-08 17:29:14Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-04-08 17:29:14Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-04-08 17:29:14Z INFO MessageListener] VssConnection created
+[2025-04-08 17:29:14Z INFO Terminal] WRITE LINE: 
+[2025-04-08 17:29:14Z INFO Terminal] WRITE LINE: 
+[2025-04-08 17:29:14Z ERR  GitHubActionsService] POST request to https://pipelinesghubeus8.actions.githubusercontent.com/yGU45xvD9BUFuGz6qRUNr2JP2FZPG1Q7KMvtBTDL3dUVAzqBVG/_apis/distributedtask/pools/1/sessions failed. HTTP Status: Conflict
+[2025-04-08 17:29:14Z ERR  MessageListener] Catch exception during create session.
+[2025-04-08 17:29:14Z ERR  MessageListener] GitHub.DistributedTask.WebApi.TaskAgentSessionConflictException: The actions runner DESKTOP-AER7VGA already has an active session.
+   at GitHub.Services.WebApi.VssHttpClientBase.HandleResponseAsync(HttpResponseMessage response, CancellationToken cancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync(HttpRequestMessage message, HttpCompletionOption completionOption, Object userState, CancellationToken cancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync[T](HttpRequestMessage message, Object userState, CancellationToken cancellationToken)
+   at GitHub.Services.WebApi.VssHttpClientBase.SendAsync[T](HttpMethod method, IEnumerable`1 additionalHeaders, Guid locationId, Object routeValues, ApiResourceVersion version, HttpContent content, IEnumerable`1 queryParameters, Object userState, CancellationToken cancellationToken)
+   at GitHub.Runner.Listener.MessageListener.CreateSessionAsync(CancellationToken token)
+[2025-04-08 17:29:14Z INFO MessageListener] The session for this runner already exists.
+[2025-04-08 17:29:14Z ERR  Terminal] WRITE ERROR: A session for this runner already exists.
+[2025-04-08 17:29:14Z INFO MessageListener] The session conflict exception have reached retry limit.
+[2025-04-08 17:29:14Z ERR  Terminal] WRITE ERROR: Stop retry on SessionConflictException after retried for 240 seconds.
+[2025-04-08 17:29:14Z ERR  Terminal] WRITE ERROR: Failed to create session. The actions runner DESKTOP-AER7VGA already has an active session.
+[2025-04-08 17:29:14Z INFO Listener] Runner execution has finished with return code 5
