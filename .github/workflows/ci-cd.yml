@@ -16,11 +16,11 @@ jobs:
       - name: Test
         run: echo "Testing ..."
 
-      - name: Stop and remove previous container
-        run: docker rm -f $(docker ps -a -q)
-
       - name: Build the Docker image
         run: docker build -t go-app .
+
+      - name: Stop and remove previous container
+        run: docker rm -f $(docker ps -a -q)
 
       - name: Deploy the Docker image
         run: docker run -d -p 8888:8888 go-app
