@@ -13,14 +13,22 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      - name: Set execution policy
+        run: Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+        shell: pwsh
+
       - name: Test
         run: echo "Testing ..."
+        shell: pwsh
 
       - name: Build the Docker image
         run: docker build -t go-app ./go
+        shell: pwsh
 
       - name: Stop and remove previous container
         run: docker rm -f $(docker ps -a -q)
+        shell: pwsh
 
       - name: Deploy the Docker image
         run: docker run -d -p 8888:8888 go-app
+        shell: pwsh
