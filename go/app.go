@@ -36,7 +36,7 @@ const htmlTemplate = `
 </head>
 <body>
 	<div>
-		<h1>Hello, 世界</h1>
+		<h1>Hello, 世界!</h1>
 		<button class="button">Нажми на меня</button>
 	</div>
 </body>
